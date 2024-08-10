@@ -5,3 +5,4 @@ imblearn
 scikit-learn
 pandas
 shap
+seaborn

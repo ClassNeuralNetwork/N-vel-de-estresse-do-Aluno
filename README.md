@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## Equipe
 
-- ![Iverton Emiquison](https://github.com/IVERTON-EMIQUISON.png) [Iverton Emiquison](https://github.com/IVERTON-EMIQUISON)
-- ![Marcelo Mesquita](https://github.com/MarceloMesquitaS.png) [Marcelo Mesquita](https://github.com/MarceloMesquitaS)
+- ![Iverton Emiquison](https://github.com/IVERTON-EMIQUISON)
+- ![Marcelo Mesquita](https://github.com/MarceloMesquitaS)
 
 Este README fornece uma visão geral do projeto, incluindo suas funcionalidades, requisitos, instruções de instalação e uso, bem como informações sobre a contribuição e a equipe envolvida.
